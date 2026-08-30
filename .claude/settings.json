@@ -10,7 +10,7 @@
     "qte77-claude-code-utils": {
       "source": {
         "source": "github",
-        "repo": "qte77/claude-code-utils-plugin"
+        "repo": "qte77/claude-code-plugins"
       }
     }
   }
